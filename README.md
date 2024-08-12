@@ -2,7 +2,6 @@
 
 Ce projet est utilisé pour les tests sur la solution KONSOPLUS
 
-/*Outils*
+//OUTILS
 
-*NEOLOAD
-*NEOLOADWEB
+- NEOLOAD et NEOLOADWEB
